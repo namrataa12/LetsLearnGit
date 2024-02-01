@@ -3,7 +3,7 @@ public static void main(String[] args) {
         int a = 5;
         int b= 6;
         System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println("Ye shaam mastani");
+        System.out.println("Hello");
+        System.out.println("Hello N");
     }
 }
